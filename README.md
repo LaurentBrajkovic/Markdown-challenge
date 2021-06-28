@@ -18,6 +18,7 @@ Pinneapple on pizza | <ul><li> &#9744; Yes, i lack tastebuds </li><li> &#9745; N
 Upon my now numerous revolutions around our celestial burning ball of helium. I have gathered the following non-work related interests :
 
 * Diving
+* Swimming
 * Electronis
 * Sailling
 * Harpoon fishing
@@ -48,4 +49,4 @@ Never compliment a woman on her moustache </br>
 ...</br>
 No matter how gorgeous it is...
 
-[<< Julien Daenen](https://github.com/JulienDaenen) | Laurent Brajkovic | [Lisa van Hooydonk >>](https://github.com/SporoZoite)
+[<< Julien Daenen](https://github.com/JulienDaenen/markdown-challenge) | Laurent Brajkovic | [Lisa van Hooydonk >>](https://github.com/SporoZoite/markdown-challenge)
